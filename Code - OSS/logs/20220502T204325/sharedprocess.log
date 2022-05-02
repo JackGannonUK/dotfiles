@@ -1,0 +1,31 @@
+[2022-05-02 20:43:28.336] [sharedprocess] [info] Starting worker process with pid 22644 (type: fileWatcher, window: 1).
+[2022-05-02 20:43:30.551] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-05-02 20:43:30.555] [sharedprocess] [info] Getting Manifest... ms-vscode.references-view
+[2022-05-02 20:43:31.154] [sharedprocess] [info] Installing extension: ms-vscode.references-view
+[2022-05-02 20:43:31.158] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-05-02 20:43:31.906] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/jack/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.17
+[2022-05-02 20:43:31.906] [sharedprocess] [info] Downloaded extension: ms-vscode.references-view /home/jack/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.references-view-0.0.89
+[2022-05-02 20:43:31.974] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.1dac1930-8d74-4ab7-8fa7-972e43feda16: ms-vscode.references-view
+[2022-05-02 20:43:31.979] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.40673f8d-9f62-4d42-ad92-284073dfc276: ms-vscode.js-debug-companion
+[2022-05-02 20:43:31.984] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-05-02 20:43:31.986] [sharedprocess] [info] Extracting completed. ms-vscode.references-view
+[2022-05-02 20:43:31.990] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-05-02 20:43:31.991] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-05-02 20:43:31.999] [sharedprocess] [info] Extension installed successfully: ms-vscode.references-view
+[2022-05-02 20:43:32.006] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion
+[2022-05-02 21:17:46.905] [sharedprocess] [info] Getting Manifest... redwan-hossain.skillavid-pure-black
+[2022-05-02 21:17:46.934] [sharedprocess] [info] Installing extension: redwan-hossain.skillavid-pure-black
+[2022-05-02 21:17:47.548] [sharedprocess] [info] Downloaded extension: redwan-hossain.skillavid-pure-black /home/jack/.config/Code - OSS/CachedExtensionVSIXs/redwan-hossain.skillavid-pure-black-5.0.0
+[2022-05-02 21:17:47.576] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.2b6427f4-4f03-4478-9cec-86543fbe75d7: redwan-hossain.skillavid-pure-black
+[2022-05-02 21:17:47.584] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/redwan-hossain.skillavid-pure-black-5.0.0
+[2022-05-02 21:17:47.586] [sharedprocess] [info] Extracting completed. redwan-hossain.skillavid-pure-black
+[2022-05-02 21:17:47.588] [sharedprocess] [info] Extension installed successfully: redwan-hossain.skillavid-pure-black
+[2022-05-02 21:18:06.777] [sharedprocess] [info] Getting Manifest... idleberg.icon-fonts
+[2022-05-02 21:18:06.804] [sharedprocess] [info] Installing extension: idleberg.icon-fonts
+[2022-05-02 21:18:07.457] [sharedprocess] [info] Downloaded extension: idleberg.icon-fonts /home/jack/.config/Code - OSS/CachedExtensionVSIXs/idleberg.icon-fonts-2.5.3
+[2022-05-02 21:18:07.640] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.ac4f92c9-dca6-49a8-a492-ce128f9b9878: idleberg.icon-fonts
+[2022-05-02 21:18:07.646] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/idleberg.icon-fonts-2.5.3
+[2022-05-02 21:18:07.647] [sharedprocess] [info] Extracting completed. idleberg.icon-fonts
+[2022-05-02 21:18:07.649] [sharedprocess] [info] Extension installed successfully: idleberg.icon-fonts
+[2022-05-02 21:18:18.578] [sharedprocess] [info] Worker process with pid 22644 terminated normally (type: fileWatcher, window: 1).
+[2022-05-02 21:18:20.026] [sharedprocess] [info] Starting worker process with pid 207237 (type: fileWatcher, window: 1).

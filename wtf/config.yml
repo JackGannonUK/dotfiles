@@ -1,0 +1,94 @@
+wtf:
+  colors:
+    border:
+      focusable: cyan
+      focused: white
+      normal: cyan
+    checked: "gray"
+    highlight:
+      fore: "white"
+      # back: "green"
+    text: "white"
+    title: "white"
+  grid:
+    columns: [20, 20, 20, 20, 20, 20, 20, 20]
+    rows: [12, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  refreshInterval: 1
+  mods:
+    clocks:
+      colors:
+        rows:
+          even: white 
+          odd: grey
+      enabled: true
+      locations:
+        Berlin: "Europe/Berlin"
+        London: "Europe/London"
+        New York: "America/New York"
+        Panama: "America/Panama"
+        Los Angeles: "America/Los Angeles"
+        Honolulu: "Pacific/Honolulu"
+        Tokyo: "Asia/Tokyo"
+        Melbourne: "Australia/Melbourne"
+        Seoul: "Asia/Seoul"
+        Bangkok: "Asia/Bangkok"
+      position:
+        top: 0
+        left: 0
+        height: 1
+        width: 2
+      refreshInterval: 15
+      sort: "chronological"
+      #    ipinfo:
+      #      colors:
+      #        name: "#75d5ff"
+      #        value: white
+      #      enabled: true
+      #      position:
+      #        top: 1
+      #        left: 0
+      #        height: 1
+      #        width: 2
+      #      refreshInterval: 150
+      #    exchangerates:
+      #      enabled: true
+      #      focusable: false
+      #      position:
+      #        top: 1
+      #        left: 0
+      #        height: 1
+      #        width: 2
+      #      precision: 3
+      #      rates:
+      #        USD:
+      #          - "EUR"
+      #        EUR:
+      #          - "USD"
+      #      title: "Rates"
+    bittrex:
+      title: "Crypto"
+      colors:
+        base:
+          name: white
+          displayName: cyan
+        market:
+          name: "#75d5ff"
+          field: "#cfcfd8"
+          value: white
+      enabled: true
+      position:
+        top: 1
+        left: 0
+        height: 8
+        width: 2
+      refreshInterval: 60
+      summary:
+        USD:
+          displayName: Market
+          market:
+          - BTC
+          - ETH
+          - LTC
+          - XRP
+          - ZRX
+
