@@ -1,0 +1,26 @@
+[2022-05-02 22:40:12.771] [exthost] [info] Extension host with pid 9797 started
+[2022-05-02 22:40:12.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-02 22:40:12.985] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-02 22:40:12.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-02 22:40:13.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-02 22:40:13.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-02 22:40:13.097] [exthost] [info] Eager extensions activated
+[2022-05-02 22:40:13.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:40:13.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:40:33.760] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:40:34.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-02 22:40:34.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-02 22:40:34.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-02 22:41:49.492] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-02 22:41:49.498] [exthost] [info] Extension host with pid 9797 exiting with code 0
+[2022-05-02 22:41:51.556] [exthost] [info] Extension host with pid 10376 started
+[2022-05-02 22:41:51.556] [exthost] [info] Skipping acquiring lock for /home/jack/.config/Code - OSS/User/workspaceStorage/76ce729dea475f2227282aa04632067d.
+[2022-05-02 22:41:51.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-02 22:41:51.731] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-02 22:41:51.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-02 22:41:51.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-02 22:41:51.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-02 22:41:51.804] [exthost] [info] Eager extensions activated
+[2022-05-02 22:41:51.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:41:51.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:41:51.825] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'

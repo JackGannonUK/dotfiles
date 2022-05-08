@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "SkillAvid Pure Black",
+    "window.titleBarStyle": "custom",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true
+}

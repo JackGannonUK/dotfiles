@@ -1,0 +1,11 @@
+[2022-05-02 23:16:24.073] [exthost] [info] Extension host with pid 1235 started
+[2022-05-02 23:16:24.073] [exthost] [info] Skipping acquiring lock for /home/jack/.config/Code - OSS/User/workspaceStorage/76ce729dea475f2227282aa04632067d.
+[2022-05-02 23:16:24.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-02 23:16:24.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-02 23:16:24.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-02 23:16:24.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-02 23:16:24.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-02 23:16:24.553] [exthost] [info] Eager extensions activated
+[2022-05-02 23:16:24.595] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 23:16:24.608] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 23:16:24.611] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'

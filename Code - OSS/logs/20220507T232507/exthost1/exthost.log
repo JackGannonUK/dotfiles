@@ -1,0 +1,13 @@
+[2022-05-07 23:25:10.203] [exthost] [info] Extension host with pid 474012 started
+[2022-05-07 23:25:10.203] [exthost] [info] Skipping acquiring lock for /home/jack/.config/Code - OSS/User/workspaceStorage/39f887b738348ca4d97200cf99252947.
+[2022-05-07 23:25:10.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-07 23:25:10.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-07 23:25:10.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-07 23:25:10.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-07 23:25:10.418] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-07 23:25:10.458] [exthost] [info] Eager extensions activated
+[2022-05-07 23:25:10.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-07 23:25:10.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-07 23:25:10.484] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-07 23:25:25.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-05-07 23:35:03.956] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'

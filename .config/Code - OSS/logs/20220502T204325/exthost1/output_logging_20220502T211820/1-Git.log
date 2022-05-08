@@ -1,0 +1,25 @@
+[2022-05-02T20:18:28.629Z] Validating found git in: git
+[2022-05-02T20:18:28.645Z] Using git 2.36.0 from git
+[2022-05-02T20:18:28.676Z] > git rev-parse --git-dir [6ms]
+[2022-05-02T20:18:28.685Z] Open repository: /home/jack/Enso
+[2022-05-02T20:18:28.725Z] > git symbolic-ref --short HEAD [1ms]
+[2022-05-02T20:18:28.732Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [2ms]
+[2022-05-02T20:18:28.745Z] > git remote --verbose [2ms]
+[2022-05-02T20:18:28.746Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-05-02T20:18:28.758Z] > git config --get commit.template [3ms]
+[2022-05-02T20:18:29.261Z] > git rev-parse --git-dir [2ms]
+[2022-05-02T20:18:29.263Z] Open repository: /home/jack/Enso/sysroot/Files/Wallpapers
+[2022-05-02T20:18:29.289Z] > git symbolic-ref --short HEAD [9ms]
+[2022-05-02T20:18:29.289Z] fatal: ref HEAD is not a symbolic ref
+[2022-05-02T20:18:29.295Z] > git rev-parse --git-dir [9ms]
+[2022-05-02T20:18:29.298Z] Open repository: /home/jack/Enso/manual
+[2022-05-02T20:18:29.305Z] > git rev-parse HEAD [11ms]
+[2022-05-02T20:18:29.327Z] > git remote --verbose [10ms]
+[2022-05-02T20:18:29.330Z] > git symbolic-ref --short HEAD [4ms]
+[2022-05-02T20:18:29.330Z] fatal: ref HEAD is not a symbolic ref
+[2022-05-02T20:18:29.337Z] > git rev-parse HEAD [1ms]
+[2022-05-02T20:18:29.348Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-05-02T20:18:29.348Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [38ms]
+[2022-05-02T20:18:29.356Z] > git remote --verbose [10ms]
+[2022-05-02T20:18:29.363Z] > git config --get commit.template [8ms]
+[2022-05-02T20:18:29.364Z] > git config --get commit.template [2ms]

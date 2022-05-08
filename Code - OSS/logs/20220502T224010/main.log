@@ -1,0 +1,11 @@
+[2022-05-02 22:40:10.364] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-02 22:40:10.403] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-05-02 22:40:10.451] [main] [info] ExtensionHostStarterWorker created
+[2022-05-02 22:40:11.864] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-02 22:40:12.099] [main] [info] Starting extension host with pid 9797 (fork() took 15 ms).
+[2022-05-02 22:40:12.100] [main] [info] ExtensionHostStarterWorker.start() took 16 ms.
+[2022-05-02 22:41:49.493] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-02 22:41:49.509] [main] [info] Extension host with pid 9797 exited with code: 0, signal: null.
+[2022-05-02 22:41:50.539] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-02 22:41:50.737] [main] [info] Starting extension host with pid 10376 (fork() took 9 ms).
+[2022-05-02 22:41:50.737] [main] [info] ExtensionHostStarterWorker.start() took 10 ms.

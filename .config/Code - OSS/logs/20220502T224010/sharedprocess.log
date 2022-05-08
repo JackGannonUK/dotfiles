@@ -1,0 +1,31 @@
+[2022-05-02 22:40:13.060] [sharedprocess] [info] Starting worker process with pid 9829 (type: fileWatcher, window: 1).
+[2022-05-02 22:40:15.318] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-05-02 22:40:15.319] [sharedprocess] [info] Getting Manifest... ms-vscode.references-view
+[2022-05-02 22:40:15.835] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-05-02 22:40:15.835] [sharedprocess] [info] Installing extension: ms-vscode.references-view
+[2022-05-02 22:40:16.123] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/jack/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.17
+[2022-05-02 22:40:16.124] [sharedprocess] [info] Downloaded extension: ms-vscode.references-view /home/jack/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.references-view-0.0.89
+[2022-05-02 22:40:16.170] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.1849b9e5-5244-4312-b36b-9d7314646b99: ms-vscode.references-view
+[2022-05-02 22:40:16.173] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.5d943479-a00f-4395-b021-0368ea371535: ms-vscode.js-debug-companion
+[2022-05-02 22:40:16.196] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-05-02 22:40:16.198] [sharedprocess] [info] Extracting completed. ms-vscode.references-view
+[2022-05-02 22:40:16.238] [sharedprocess] [info] Extension installed successfully: ms-vscode.references-view
+[2022-05-02 22:40:16.239] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-05-02 22:40:16.240] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-05-02 22:40:16.264] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion
+[2022-05-02 22:40:23.002] [sharedprocess] [info] Getting Manifest... redwan-hossain.skillavid-pure-black
+[2022-05-02 22:40:23.066] [sharedprocess] [info] Installing extension: redwan-hossain.skillavid-pure-black
+[2022-05-02 22:40:23.242] [sharedprocess] [info] Downloaded extension: redwan-hossain.skillavid-pure-black /home/jack/.config/Code - OSS/CachedExtensionVSIXs/redwan-hossain.skillavid-pure-black-5.0.0
+[2022-05-02 22:40:23.278] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.02b1b8d7-9465-4bc4-acb4-3841832aed56: redwan-hossain.skillavid-pure-black
+[2022-05-02 22:40:23.302] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/redwan-hossain.skillavid-pure-black-5.0.0
+[2022-05-02 22:40:23.303] [sharedprocess] [info] Extracting completed. redwan-hossain.skillavid-pure-black
+[2022-05-02 22:40:23.304] [sharedprocess] [info] Extension installed successfully: redwan-hossain.skillavid-pure-black
+[2022-05-02 22:40:31.551] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-05-02 22:40:31.592] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-05-02 22:40:32.228] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/jack/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.16.0
+[2022-05-02 22:40:33.632] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.aa30c03c-3ea6-4149-93ba-c693ee6b55e9: pkief.material-icon-theme
+[2022-05-02 22:40:33.657] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/pkief.material-icon-theme-4.16.0
+[2022-05-02 22:40:33.659] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-05-02 22:40:33.659] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-05-02 22:41:49.515] [sharedprocess] [info] Worker process with pid 9829 terminated normally (type: fileWatcher, window: 1).
+[2022-05-02 22:41:50.787] [sharedprocess] [info] Starting worker process with pid 10377 (type: fileWatcher, window: 1).

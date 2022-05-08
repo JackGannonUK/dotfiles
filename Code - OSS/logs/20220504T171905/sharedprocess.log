@@ -1,0 +1,9 @@
+[2022-05-04 17:19:08.550] [sharedprocess] [info] Deleted from disk ms-vscode.js-debug-companion /home/jack/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-05-04 17:19:08.807] [sharedprocess] [info] Starting worker process with pid 1293 (type: fileWatcher, window: 1).
+[2022-05-06 17:19:15.050] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-05-06 17:19:15.659] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-05-06 17:19:16.263] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/jack/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.17.0
+[2022-05-06 17:19:17.321] [sharedprocess] [info] Extracted extension to /home/jack/.vscode-oss/extensions/.9ce755a7-9882-475e-a57a-cfe0f83bd635: pkief.material-icon-theme
+[2022-05-06 17:19:17.325] [sharedprocess] [info] Renamed to /home/jack/.vscode-oss/extensions/pkief.material-icon-theme-4.17.0
+[2022-05-06 17:19:17.326] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-05-06 17:19:17.329] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
